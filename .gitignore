@@ -1,0 +1,4 @@
+# 笔记中可能含敏感信息
+private/
+*.local.md
+*-personal.md

@@ -9,14 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2026-09-03
 
-### ### Added
-
-### - Initial release
-
-### - XHS anti-crawler research trail (5+ approaches documented)
-
-### - China platform rate limit analysis
-
-### - Scraper tools comparison (cn-scraper-mcp / jackwener / camoufox)
-
-### - Lessons learned from production deployment
+### Added
+- Initial release
+- XHS anti-crawler research trail (5+ approaches documented)
+- China platform rate limit analysis
+- Scraper tools comparison (cn-scraper-mcp / jackwener / camoufox)
+- Lessons learned from production deployment
+- README with usage guide
+- Issue & PR templates
+- Contributing guide
+- DSH 生态成员互链区块

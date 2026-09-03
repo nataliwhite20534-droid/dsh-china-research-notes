@@ -1,4 +1,4 @@
-# dsh-china-research-notes
+﻿# dsh-china-research-notes
 
 > 中国互联网平台数据采集的实战经验合集 — 失败案例、风控规则、工具评测。
 
@@ -80,4 +80,20 @@ for item in result["items"]:
 
 ## 许可证
 
-MIT — 详见 [LICENSE](LICENSE)
+MIT — 详见 [LICENSE](LICENSE)\n
+
+---
+
+## 🌏 DSH 生态成员
+
+本项目是 **DSH (DeepSeek Harness)** 生态的一员，同系列还有：
+
+- 🎀 [`dsh-moe-plugin`](https://github.com/nataliwhite20534-droid/dsh-moe-plugin) — 萌属性 Persona 系统（10 种预设卡片）
+- 📕 [`dsh-xhs-collector`](https://github.com/nataliwhite20534-droid/dsh-xhs-collector) — 小红书批量抓取工具
+- ⚙️ [`dsh-4-role-workflow`](https://github.com/nataliwhite20534-droid/dsh-4-role-workflow) — 4 角色 Agent 工作流
+
+> 欢迎 Star / Fork / Issue！想参与开发？Fork 后提 PR 即可。
+
+## 🔗 相关链接
+
+- [DSH (DeepSeek Harness) 主仓](https://github.com/deepseek-ai/deepseek-harness)
